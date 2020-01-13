@@ -55,9 +55,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\Scripts\BallControl.cs" />
      <Compile Include="Assets\Scripts\GameSetup.cs" />
      <Compile Include="Assets\Scripts\PlayerControls.cs" />
+     <Compile Include="Assets\Scripts\PlayerScores.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>A:/Unity Hub/Unity Projects/BrackeysPong/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
